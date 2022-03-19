@@ -16,6 +16,6 @@ class SQRServiceTest {
         SQRService service = new SQRService();
 
         long actual = service.calculate(leftBorder, rightBorder);
-        assertEquals(actual, expected);
+        assertEquals(expected, actual);
     }
 }
