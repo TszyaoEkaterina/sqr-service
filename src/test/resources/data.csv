@@ -1,0 +1,5 @@
+range under10*10,0,99,0,
+range from 200 to 300,200,300,3,
+range from 400 to 500,400,500,3,
+range over 99*99,9802,10000,0, ignoreLeadingAndTrailingWhitespace = true
+
